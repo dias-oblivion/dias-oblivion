@@ -1,10 +1,7 @@
 <h1 align="center">Olá 👋</h1>
-<h3 align="center">Full Stack Dev Jr..</h3>
+<h3 align="center">Full Stack Dev Jr.</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 Atualmente estou focando em desenvolver aplicações utilizando Next JS
 
 - 📫 Contato **gabrieldias335@gmail.com**
 
