@@ -1,8 +1,9 @@
 <h2>Hey! 👋 </h2>
 
+<div>
+      
 <img width="400px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
 
-<p>&nbsp;</p>
 <p><em>I'm Gabriel, a 24 years old full stack developer from Brazil.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ### <img width="50px" marginTop="10rem" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/coffe_animation.gif"/> ~ I am working and studying these subjects:
@@ -12,9 +13,10 @@
       <li> 🛠 React, NextJS, Node, Storybook, Redux, Docker</li>
 </ul>
 
-<br>
+</div>
 
-<p>&nbsp;</p>
+<br><br><br>
+
 <div align="right">
 <p><em>Full Stack Developer at </em><a href="https://nappsolutions.com.br">Napp Solutions</a></p>
 
