@@ -1,7 +1,7 @@
 <h2>Hey! 👋 </h2>
 
 <div>
-      
+<br>      
 <img width="400px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
 
 <p><em>I'm Gabriel, a 24 years old full stack developer from Brazil.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
