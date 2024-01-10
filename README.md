@@ -15,7 +15,6 @@
 <br>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <div align="right">
 <p><em>Full Stack Developer at </em><a href="https://nappsolutions.com.br">Napp Solutions</a></p>
 
