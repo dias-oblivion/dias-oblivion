@@ -4,12 +4,12 @@
 <br>      
 <img width="400px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
 
-<p><em>I'm Gabriel, a 24 years old full stack developer from Brazil.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><em>I'm Gabriel, a 26 years old full stack developer from Brazil.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ### <img width="50px" marginTop="10rem" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/coffe_animation.gif"/> ~ I am working and studying these subjects:
 
 <ul>
-      <li>👨‍💻 TypeScript, Go, Python</li>
+      <li>👨‍💻 TypeScript, Go, Python, Java, Laravel </li>
       <li> 🛠 React, NextJS, Node, Storybook, Redux, Docker</li>
 </ul>
 
