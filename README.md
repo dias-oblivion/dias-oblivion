@@ -20,20 +20,13 @@
 - 💬 Ask me about **React, TypeScript, Node.js**
 
 <br clear="right"/>
-
----
+<br clear="right"/>
+<br clear="right"/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,python,java,php,react,nextjs&theme=dark" alt="Tech Stack" />
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,docker,postgres,git&theme=dark" alt="Tech Stack" />
-</div>
-
----
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dias-oblivion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias-oblivion&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
