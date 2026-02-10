@@ -28,5 +28,3 @@
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,docker,postgres,git&theme=dark" alt="Tech Stack" />
 </div>
-
----
