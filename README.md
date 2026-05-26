@@ -3,6 +3,8 @@
   <em>I'm Gabriel, a 26-year-old Full Stack Developer from Brazil 🇧🇷</em>
 </p>
 
+<br/>
+
 <img width="360px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
 
 ### About Me
@@ -12,6 +14,7 @@
 - 💬 Ask me about **React, TypeScript** and **Go**
 
 <br clear="both"/>
+<br/>
 <br/>
 
 <div align="right">
