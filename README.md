@@ -8,7 +8,7 @@
 ### About Me
 
 - 🏢 Full Stack Developer at **[Napp Solutions](https://nappsolutions.com.br)**
-- 🌱 Currently deepening my skills in **Go** and **system design**
+- 🌱 Currently deepening my skills in **Go** and **software architecture**
 - 💬 Ask me about **React, TypeScript** and **Go**
 
 <br clear="both"/>
