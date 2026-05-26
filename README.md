@@ -11,10 +11,6 @@
 - 🌱 Currently deepening my skills in **Go** and **system design**
 - 💬 Ask me about **React, TypeScript, Node.js**
 
-<br/>
-
-<img height="26" src="https://skillicons.dev/icons?i=ts,go,python,java,php,react,nextjs,nodejs,laravel,docker,postgres,git&theme=dark&perline=15" alt="Tech Stack"/>
-
 <br clear="both"/>
 <br/>
 
