@@ -3,8 +3,7 @@
   <em>I'm Gabriel, a 26-year-old Full Stack Developer from Brazil 🇧🇷</em>
 </p>
 
-<br>
-<img width="400px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
+<img width="380px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
 
 ### About Me
 
@@ -12,24 +11,27 @@
 - 🌱 Currently deepening my skills in **Go** and **system design**
 - 💬 Ask me about **React, TypeScript, Node.js**
 
-<br clear="right"/>
+<br clear="both"/>
+<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,python,java,php,react,nextjs&theme=dark" alt="Tech Stack"/>
-  <br>
+  <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,docker,postgres,git&theme=dark" alt="Tech Stack"/>
 </div>
 
-<br>
+<br/>
 
-<div align="center">
+<div align="right">
   <a href="https://oblivion.dev.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=4f46e5&logo=googlechrome&logoColor=white&style=for-the-badge" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/gabriel-dias-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/dias_oblivion/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
 </div>
