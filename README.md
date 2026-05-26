@@ -9,7 +9,7 @@
 
 - 🏢 Full Stack Developer at **[Napp Solutions](https://nappsolutions.com.br)**
 - 🌱 Currently deepening my skills in **Go** and **system design**
-- 💬 Ask me about **React, TypeScript, Node.js**
+- 💬 Ask me about **React, TypeScript, Go**
 
 <br clear="both"/>
 <br/>
