@@ -3,7 +3,7 @@
   <em>I'm Gabriel, a 26-year-old Full Stack Developer from Brazil 🇧🇷</em>
 </p>
 
-<img width="380px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
+<img width="360px" align="right" src="https://github.com/dias-oblivion/dias-oblivion/blob/main/wallpaper.gif"/>
 
 ### About Me
 
@@ -11,15 +11,11 @@
 - 🌱 Currently deepening my skills in **Go** and **system design**
 - 💬 Ask me about **React, TypeScript, Node.js**
 
-<br clear="both"/>
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,python,java,php,react,nextjs&theme=dark" alt="Tech Stack"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,docker,postgres,git&theme=dark" alt="Tech Stack"/>
-</div>
+<img height="26" src="https://skillicons.dev/icons?i=ts,go,python,java,php,react,nextjs,nodejs,laravel,docker,postgres,git&theme=dark&perline=15" alt="Tech Stack"/>
 
+<br clear="both"/>
 <br/>
 
 <div align="right">
